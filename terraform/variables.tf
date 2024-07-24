@@ -26,3 +26,7 @@ variable "zone_name" {
     default = "shivdev.online"
   
 }
+
+variable "app_version" {
+  
+}
